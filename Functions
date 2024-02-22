@@ -1,0 +1,25 @@
+function burgerMeal() {
+	Add bread
+	Add beef patty
+	Add prickles
+	Add mayo
+	Add catch-up
+
+Function sideOrder(
+	Add chips
+	Add salt )
+
+Function drink (
+	Add Coke)
+}
+
+
+
+
+Fruits = apples + strawberry + kiwi + banana
+
+Banana = 5
+Apples = 3
+Banana == apples = false
+
+
